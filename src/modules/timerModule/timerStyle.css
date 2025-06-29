@@ -1,0 +1,13 @@
+.timer-info {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: #1b1a1a;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  z-index: 1001;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
