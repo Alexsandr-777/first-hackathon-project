@@ -1,3 +1,4 @@
+
 import '././styles.css'
 import { CustomMenu } from './menu.js'
 import { DeathScreenModule } from './modules/daeathScreenModule/deathScreenModule.js'
@@ -12,6 +13,7 @@ menu.add(new BackgroundModule())
 menu.add(new ClicksModule())
 menu.add(new ShapeModule())
 menu.add(new SparkModule())
+
 
 
 
