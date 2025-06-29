@@ -4,3 +4,4 @@ import { DeathScreenModule } from './modules/daeathScreenModule/deathScreenModul
 const menu = new CustomMenu('#menu')
 menu.add(new DeathScreenModule())
 
+
